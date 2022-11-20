@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Anish Sharma',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Anish Sharma a incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
   siteUrl: 'https://yashitanamdeo.github.io/',
@@ -17,10 +17,6 @@ module.exports = {
     {
       name: 'GitHub',
       url: 'https://github.com/yashitanamdeo',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
     },
     {
       name: 'Codepen',
