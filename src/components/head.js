@@ -18,7 +18,7 @@ import favicon32x32 from '@images/favicons/favicon-32x32.png';
 import favicon96x96 from '@images/favicons/favicon-96x96.png';
 import favicon16x16 from '@images/favicons/favicon-16x16.png';
 import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
-
+import Logo from '@images/logo.png'
 const Head = ({ metadata }) => (
   <Helmet>
     <html lang="en" prefix="og: http://ogp.me/ns#" />
