@@ -128,12 +128,7 @@ const About = ({ data }) => {
             {skills && skills.map((skill, i) => <Skill key={i}>{skill}</Skill>)}
           </SkillsContainer>
         </StyledContent>
-        <StyledPic>
-          <StyledAvatarLink href={github}>
-           // <StyledAvatar fluid={avatar.childImageSharp.fluid} alt="Avatar" />
-          </StyledAvatarLink>
-        </StyledPic>
-      </StyledFlexContainer>
+       </StyledFlexContainer>
     </StyledContainer>
   );
 };
