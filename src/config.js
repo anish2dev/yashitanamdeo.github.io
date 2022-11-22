@@ -4,7 +4,7 @@ module.exports = {
     'Anish Sharma a incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Anish Sharma,Anish  , Sharma, Anish Sharma, software engineer, web developer, javascript, python, java, svvv, india',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://anishdev.tech',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
