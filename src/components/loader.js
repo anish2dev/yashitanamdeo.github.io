@@ -57,7 +57,7 @@ const Loader = ({ finishLoading }) => {
         easing: 'easeInOutQuart',
         opacity: 1,
       })
-      .add({
+     /* .add({
         targets: '#logo',
         delay: 500,
         duration: 300,
@@ -71,7 +71,7 @@ const Loader = ({ finishLoading }) => {
         easing: 'easeInOutQuart',
         opacity: 0,
         zIndex: -1,
-      });
+      });*/
   };
 
   const [isMounted, setIsMounted] = useState(false);
