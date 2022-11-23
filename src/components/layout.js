@@ -89,7 +89,7 @@ const Layout = ({ children, location }) => {
           <SkipToContent href="#content">Skip to Content</SkipToContent>
 
           {isLoading && isHome ? (
-            <Loader finishLoading={() => setIsLoading(false)} />
+            <Loader finishLoading={() => setIsLoading(true)} />
           ) : (
             <StyledContent>
               <Nav isHome={isHome} />
