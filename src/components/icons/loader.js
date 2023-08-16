@@ -18,7 +18,7 @@ const IconLoader = () => (
                   L 89, 28 z"
       />
     </g>
-    <text x="50%" y="50%" textAnchor="middle"fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
+    <text x="50%" y="50%" textAnchor="middle" dy=".3em" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
       A
     </text>
   </svg>
