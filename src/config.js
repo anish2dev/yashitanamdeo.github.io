@@ -1,9 +1,8 @@
 module.exports = {
   siteTitle: 'Anish Sharma',
-  siteDescription:
-    'Anish Sharma a incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+  siteDescription:'I am Anish born and raised in india in a middle class family in hosarpur punjab. Programing is my hoby that why i am practicing it from 6th grade ',
   siteKeywords:
-    'Anish Sharma,Anish  , Sharma, Anish Sharma, software engineer, web developer, javascript, python, java, svvv, india',
+    'Anish Sharma,Anish  , Sharma, Anish Sharma, software engineer, web developer, javascript, python, java, svvv, india, anishdevtech, anish2dev,anishdev',
   siteUrl: 'https://anishdev.tech',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -11,20 +10,20 @@ module.exports = {
   name: 'Anish Sharma',
   location: 'Punjab, India',
   email: 'anishdev02@gmail.com',
-  github: 'https://github.com/anish2dev',
+  github: 'https://github.com/anishdevtech',
   twitterHandle: '@anish2dev',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/anish2dev',
+      url: 'https://github.com/anishdevtech',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/anish2dev',
+      url: 'https://www.instagram.com/a.n.i.s.hx18',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/anish2dev',
+      url: 'https://twitter.com/anishdevtech',
     },
   ],
 
@@ -34,11 +33,11 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience-Soon',
+      name: 'Services',
       url: '/#jobs',
     },
     {
-      name: 'Projects-Soon',
+      name: 'Projects',
       url: '/#projects',
     },
     {
