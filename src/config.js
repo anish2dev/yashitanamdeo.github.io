@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:'I am Anish born and raised in india in a middle class family in hosarpur punjab. Programing is my hoby that why i am practicing it from 6th grade ',
   siteKeywords:
     'Anish Sharma,Anish  , Sharma, Anish Sharma, software engineer, web developer, javascript, python, java, svvv, india, anishdevtech, anish2dev,anishdev',
-  siteUrl: 'https://anishdev.tech',
+  siteUrl: 'https://anishsharma.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/a.n.i.s.hx18',
+      url: 'https://www.instagram.com/ani.sh.arma01',
     },
     {
       name: 'Twitter',
